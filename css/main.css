@@ -101,6 +101,12 @@ bottom: 30px;
 
 .product:hover img:first-of-type{
     display: none;
+
+}
+
+.like:hover span {
+    color:red;
+    cursor: pointer;
 }
 
 
