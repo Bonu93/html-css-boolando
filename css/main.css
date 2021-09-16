@@ -1,0 +1,27 @@
+/* GENERAL RULES  */
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+/* UTILITIES */
+
+.container {
+    width: 70%;
+    height: 800px;
+    margin: 20px auto;
+}
+
+.col {
+    display: inline-block;
+    width: 32%;
+    margin-right: 10px;
+    
+}
+
+.product img {
+    width: 100%;
+}
